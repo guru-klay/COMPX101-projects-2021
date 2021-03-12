@@ -6,5 +6,5 @@ A repository for projects completed during University course COMPX101 in 2021
 
 | Link          | Example      |    
 | ------------- |:------------:|
-| [2.2 Hello World!](/2.2 Hello World)    | ![](/hello_world.gif)| 
+| [2.2 Hello World!](/2.2 Hello World/README.md)    | ![](/hello_world.gif)| 
 
